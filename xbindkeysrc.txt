@@ -1,0 +1,6 @@
+#dmenu_run 1
+"dmenu_run"
+m:0x0 + c:49
+#dmenu_run 2
+"dmenu_run"
+grave

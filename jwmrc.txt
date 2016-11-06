@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<JWM>
+	<RootMenu onroot="3" labeled="false">
+		<program label="Terminal">xterm</program>
+		<Restart label="Restart"></Restart>
+		<Exit label="Exit"></Exit>
+	</RootMenu>
+	<WindowStyle decorations="flat">
+		<width>1</width>
+		<height>20</height>
+		<corner>0</corner>
+		<foreground>#fffffff</foreground>
+		<background>#6666666</background>
+		<outline>#00ff00</outline>
+		<active>
+			<foreground>#ffffff</foreground>
+			<background>#000000</background>
+			<outline>#00ff00</outline>
+		</active>
+	</WindowStyle>
+	<Desktops width="1" height="1">
+		<background>#c1c1c1</background>
+	</Desktops>
+</JWM>
