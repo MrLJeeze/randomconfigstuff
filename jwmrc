@@ -9,11 +9,11 @@
 		<Width>1</Width>
 		<Height>20</Height>
 		<Corner>0</Corner>
-		<Foreground>#fffffff</Foreground>
+		<Foreground>#000000</Foreground>
 		<Background>#004e00</Background>
 		<Outline>#00ff00</Outline>
 		<Active>
-			<Foreground>#ffffff</Foreground>
+			<Foreground>#000000</Foreground>
 			<Background>#00ff00</Background>
 			<Outline>#00ff00</Outline>
 		</Active>
