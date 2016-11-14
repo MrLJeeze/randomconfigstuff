@@ -19,7 +19,7 @@
 		</Active>
 	</WindowStyle>
 	<Desktops width="1" height="1">
-		<background>#c1c1c1</background>
+		<Background>#c1c1c1</Background>
 	</Desktops>
 	<FocusModel>click</FocusModel>
 </JWM>
