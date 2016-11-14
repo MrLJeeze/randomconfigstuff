@@ -6,17 +6,17 @@
 		<Exit label="Exit"></Exit>
 	</RootMenu>
 	<WindowStyle decorations="flat">
-		<width>1</width>
-		<height>20</height>
-		<corner>0</corner>
-		<foreground>#fffffff</foreground>
-		<background>#004e00</background>
-		<outline>#00ff00</outline>
-		<active>
-			<foreground>#ffffff</foreground>
-			<background>#00ff00</background>
-			<outline>#00ff00</outline>
-		</active>
+		<Width>1</Width>
+		<Height>20</Height>
+		<Corner>0</Corner>
+		<Foreground>#fffffff</Foreground>
+		<Background>#004e00</Background>
+		<Outline>#00ff00</Outline>
+		<Active>
+			<Foreground>#ffffff</Foreground>
+			<Background>#00ff00</Background>
+			<Outline>#00ff00</Outline>
+		</Active>
 	</WindowStyle>
 	<Desktops width="1" height="1">
 		<background>#c1c1c1</background>
