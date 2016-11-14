@@ -1,5 +1,0 @@
-#Basic Script -- 126 ~
-cp jwmrc ~/.jwmrc
-cp xbindkeysrc ~/.xbindkeysrc
-cp bashrc ~/.bashrc
-echo 'The copies have been send'
