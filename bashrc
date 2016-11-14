@@ -3,7 +3,7 @@
 #
 
 # If not running interactively, don't do anything
-[[ $- != *i* ]] && return
+[ -z "$PS1" ] && return
 
 alias ls='ls --color=auto'
 alias descarga='sudo pacman -S'
