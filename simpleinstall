@@ -1,0 +1,4 @@
+#Basic Script -- 126 ~
+cp -i ~/repo/jwmrc.txt ~/.jwmrc
+cp -i ~/repo/xbindkeysrc.txt ~/.xbindkeysrc
+echo 'The copies have been send'
